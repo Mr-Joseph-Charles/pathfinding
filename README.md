@@ -1,1 +1,1 @@
-bartdemeyere.github.io/pathfinding
+https://bartdemeyere.github.io/pathfinding
